@@ -43,7 +43,7 @@ import java.util.concurrent.TimeoutException;
 
 public class PlanActivity extends AppCompatActivity implements TimePickerDialog.OnTimeSetListener {
     public static final String REQUEST_TAG = "PlanActivity";
-    private String apiKey = "AIzaSyBKNcY2uA3ldzZyTZyrmQ9UlG79tTxRpuo";
+    private String apiKey = "AIzaSyBKNcY1uA3ldzZyTZyrmQ9UlG74tTxRpu0";
     private Button mDate;
     private Button mTime;
     private Button mNext;
